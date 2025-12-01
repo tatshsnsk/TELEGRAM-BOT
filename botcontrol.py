@@ -1,2 +1,2 @@
 import botcontrol
-botcontrol.sr ()
+botcontrol.start()  # sr নয়
