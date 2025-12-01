@@ -41,7 +41,9 @@ python3 bot.py
 ```
 ---
 ## BOT USER NAME 😍🤖
-**@tuminostvatari_bot** 
+
+## **@tuminostvatari_bot** 
+
 **( এটা দিয়ে বলবেন একবার Strat দিতে )**
 
 ---
