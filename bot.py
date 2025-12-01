@@ -1,2 +1,4 @@
 import botcontrol
-# botcontrol.sr()  <-- কমেন্ট করা ঠিক আছে
+
+if __name__ == "__main__":
+    botcontrol.main()   # যদি gm.py তে main() থাকে
