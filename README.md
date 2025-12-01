@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ## 📌 Overview
 
 **NEO v2.7** হলো একটি Ultra Sender System যেটা Telegram Bot API ব্যবহার করে  
@@ -18,7 +17,6 @@
 ✨ Fast API Delivery System  
 
 ---
-
 ## ⚙️ Features
 
 - ✨ **Smooth Typing Animation**
@@ -30,7 +28,6 @@
 - 🔒 **100% Safe & Secure**
 
 ---
-
 ## 📦 Installation (Termux / Linux)
 
 ```bash
@@ -44,26 +41,25 @@ python3 bot.py
 ```
 ---
 ## BOT USER NAME 😍🤖
-**@tuminostvatari_bot**
+**@tuminostvatari_bot** 
+**( এটা দিয়ে বলবেন একবার Strat দিতে )**
 
 ---
 
 ## ▶️ Usage
 
--1️⃣ Run the script
--2️⃣ Enter Target User ID
--3️⃣ Enter Message
--4️⃣ Auto-Delivery → ✔️
-
+- 1️⃣ Run the script
+- 2️⃣ Enter Target User ID
+- 3️⃣ Enter Message
+- 4️⃣ Auto-Delivery → ✔️
 
 ---
-
 ## 📸 Screenshot (UI Preview)
 
 YOUR BOT CONNECTED SUCCESSFULLY!
 
-[1] TARGET USER ID : 123456789
-[2] MESSAGE TO SEND : Hello Alex Hunter 🔥
+- [1] TARGET USER ID : 123456789
+- [2] MESSAGE TO SEND : Hello Alex Hunter 🔥
 
 
 ---
@@ -85,8 +81,17 @@ YOUR BOT CONNECTED SUCCESSFULLY!
 ## 🧑‍💻 Developer
 
 **👑 ALEX HUNTER**
+
 **Telegram Bot Automation Expert**
+
 **Cyber Sentinel Bangladesh Member**
 
 
 ---
+
+## GIT CLONE 💀
+**শুধু মাএ বিনোদনের জন্য**
+
+**তাই দয়া করে কেউ সিরিয়াস নিবেন না**
+
+**ধন্যবাদ ভালো থাকবেন সুস্থ থাকবেন!** 
