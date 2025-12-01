@@ -1,2 +1,2 @@
 import botcontrol
-# botcontrol.sr()
+print(dir(botcontrol))
