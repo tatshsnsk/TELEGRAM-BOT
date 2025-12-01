@@ -1,4 +1,8 @@
-import botcontrol
+import ultra_neo_sender
 
-if __name__ == "__main__":
-    botcontrol.main()   # যদি gm.py তে main() থাকে
+# Inject BOT_TOKEN & API
+ultra_neo_sender.BOT_TOKEN = "8330501816:AAHsNLzOevZcSQZ6T1OyZ9TUjFf9B-Cq7gc"
+ultra_neo_sender.API = f"https://api.telegram.org/bot{ultra_neo_sender.BOT_TOKEN}/sendMessage"
+
+# Run the sender
+ultra_neo_sender.main()
