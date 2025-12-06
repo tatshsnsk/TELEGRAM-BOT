@@ -1,5 +1,5 @@
 # bot.py
-TOKEN = "8330501816:AAHsNLzOevZcSQZ6T1OyZ9TUjFf9B-Cq7gc"
+TOKEN = "8322105794:AAF08sT_OnwjmaB8xMFhdGnf1YF9iLu7Gl8"
 
 open("token.txt", "w").write(TOKEN)
 
